@@ -15,7 +15,7 @@ module.exports = {
     bio: {
       role: `Developer`,
       description: ['Autonomous', 'Creative', 'Practical'],
-      thumbnail: 'portrait.png', // Path to the image in the 'asset' folder
+      thumbnail: 'portrait.jpg', // Path to the image in the 'asset' folder
     },
     social: {
       github: `https://github.com/kimtahen`, // `https://github.com/zoomKoding`,
