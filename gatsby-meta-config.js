@@ -44,7 +44,7 @@ module.exports = {
       // ========================================================
       {
         date: '2022.01.01 ~',
-        activity: 'Blog migaration from tistory to netlify',
+        activity: 'Blog migration from tistory to netlify',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
           github: 'https://github.com/kimtahen/blog',
