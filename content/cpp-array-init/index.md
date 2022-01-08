@@ -129,3 +129,6 @@ int main(){
 
 iostream에 cstring이 포함되어 있는지는 잘 모르겟지만, 스마트폰 termux gcc 에서는 cstring을 포함하지 않아도 컴파일이 잘 된다.
 
+```toc
+```
+
