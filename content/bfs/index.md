@@ -1,6 +1,6 @@
 ---
 emoji: 🛰️
-title: BFS
+title: 최단거리계산, 모든 최단거리경로 구하기
 date: '2022-01-16 13:42:48' 
 author: kimtahen
 tags: algorithm bfs
